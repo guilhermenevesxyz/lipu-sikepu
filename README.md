@@ -8,10 +8,14 @@ lipu Sikepu li kepeken ala e nimi pi toki ante.
 
 nimi "Sikepu" li sama e "sitelen" e "kepeken" e "pu".
 
-# kepeken
+## kepeken
 
 pini ala...
 
-# pali
+## pali
 
 pini ala...
+
+## lipu lawa
+
+lipu Sikepu li kepeken e lipu lawa Unlicense, la jan ala li jo e ni.
