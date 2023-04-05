@@ -1,4 +1,4 @@
-const o_sina_lukin_e_nimi = document.getElementById("o_sina_lukin_e_nimi");
+const o_sina_alasa_e_nimi = document.getElementById("o_sina_alasa_e_nimi");
 const poki_pi_nimi = document.getElementById("poki_pi_nimi");
 
 const o_sina_pana_e_nimi_lon_poki_pi_nimi = (nimi) => {
@@ -45,11 +45,11 @@ const o_sina_pana_e_nimi_lon_poki_pi_nimi = (nimi) => {
 	poki_pi_nimi.appendChild(kama);
 };
 
-o_sina_lukin_e_nimi.addEventListener("submit", (kama_pi_lukin_pi_nimi) => {
+o_sina_alasa_e_nimi.addEventListener("submit", (kama_pi_lukin_pi_nimi) => {
 	// o kama ala e nasin Default
 	kama_pi_lukin_pi_nimi.preventDefault();
 
-	const sona_pi_lukin_pi_nimi = new FormData(o_sina_lukin_e_nimi);
+	const sona_pi_lukin_pi_nimi = new FormData(o_sina_alasa_e_nimi);
 	const nimi_alasa = sona_pi_lukin_pi_nimi.get("nimi");
 
 	fetch("nimi.json")
