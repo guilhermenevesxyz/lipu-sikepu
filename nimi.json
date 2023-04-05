@@ -1,0 +1,74 @@
+{
+	"nimi_mute": [
+		{
+			"nimi": "a",
+			"toki": "a",
+			"kama": "pi kalama",
+			"sona": [
+				"pilin suli",
+				"ijo lon"
+			],
+			"kulupu_nimi": [
+				"a! ni li pona!"
+			]
+		},
+
+		{
+			"nimi": "akesi",
+			"toki": "A.ke.si",
+			"kama": "pi toki Netelan \"hagedis\"",
+			"sona": [
+				"soweli pi telo loje lete",
+				"lukin ike"
+			],
+			"kulupu_nimi": [
+				"mi jo e akesi mute.",
+				"sina akesi ike!"
+			]
+		},
+
+		{
+			"nimi": "ala",
+			"toki": "A.la",
+			"kama": "pi toki Katelo \"ara\"",
+			"sona": [
+				"ijo lili mute",
+				"wan anpa wan"
+			],
+			"kulupu_nimi": [
+				"mi olin ala e mama pi sina.",
+				"wan anpa wan li ala."
+			]
+		},
+
+		{
+			"nimi": "alasa",
+			"toki": "A.la.sa",
+			"kama": "pi toki Kanse \"à la chasse\"",
+			"sona": [
+				"kama tawa ijo"
+			],
+			"kulupu_nimi": [
+				"mi alasa e akesi ni."
+			]
+		},
+
+		{
+			"nimi": "ale",
+			"toki": "A.le",
+			"kama": "pi toki Netelan \"alle\"",
+			"sona": [
+				"ijo mute",
+				"kon pi soweli",
+				"tomo pi soweli mute",
+				"nanpa wan ala ala"
+			],
+			"kulupu_nimi": [
+				"sina jo e ale!",
+				"tenpo ni, la ale li ike...",
+				"mi ale li tomo lon insa ale.",
+				"mi jo e nanpa ale pi alasa pi sona!"
+			]
+		}
+	]
+}
