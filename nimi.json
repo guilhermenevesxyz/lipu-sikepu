@@ -69,6 +69,234 @@
 				"mi ale li tomo lon insa ale.",
 				"mi jo e nanpa ale pi alasa pi sona!"
 			]
+		},
+
+		{
+			"nimi": "anpa",
+			"toki": "AN.pa",
+			"kama": "pi toki Kanse \"en bas\"",
+			"sona": [
+				"tawa supa",
+				"tawa lili",
+				"tawa ma Antatika",
+				"sewi ala"
+			],
+			"kulupu_nimi": [
+				"ma Potuke li ma pi ma Elopa anpa",
+				"sina lukin ala, la sina anpa!"
+			]
+		},
+
+		{
+			"nimi": "ante",
+			"toki": "AN.te",
+			"kama": "pi toki Netelan \"ander\"",
+			"sona": [
+				"mi ala",
+				"ni ala",
+				"nanpa tu"
+			],
+			"kulupu_nimi": [
+				"mi olin e ni e ante!",
+				"o sina moli ala e jan ante!"
+			]
+		},
+
+		{
+			"nimi": "anu",
+			"toki": "AN.u",
+			"kama": "pi toki Katelo \"an\"",
+			"sona": [
+				"ijo ni en ijo ante li sama ala"
+			],
+			"kulupu_nimi": [
+				"telo anu kiwen?",
+				"ni li pona anu ike?"
+			]
+		},
+
+		{
+			"nimi": "awen",
+			"toki": "A.wen",
+			"kama": "pi toki Netelan \"houden\"",
+			"sona": [
+				"jo sama"
+			],
+			"kulupu_nimi": [
+				"soweli nena pi telo li awen e telo tawa insa!"
+			]
+		},
+
+		{
+			"nimi": "e",
+			"toki": "e",
+			"kama": "nasin ala",
+			"sona": [
+				"tawa ijo"
+			],
+			"kulupu_nimi": [
+				"jan ale li moku e telo"
+			]
+		},
+
+		{
+			"nimi": "en",
+			"toki": "en",
+			"kama": "pi toki Netelan \"en\"",
+			"sona": [
+				"ijo tu li sama"
+			],
+			"kulupu_nimi": [
+				"mi en mama pi mi li jan lili."
+			]
+		},
+
+		{
+			"nimi": "esun",
+			"toki": "E.sun",
+			"kama": "pi toki Akan",
+			"sona": [
+				"jan li pana e mani, la jan li jo e ijo sin"
+			],
+			"kulupu_nimi": [
+				"o sina esun e telo tawa mi!",
+				"mi awen e esun."
+			]
+		},
+
+		{
+			"nimi": "ijo",
+			"toki": "I.jo",
+			"kama": "pi toki Epelanto \"io\"",
+			"sona": [
+				"ale pi ale",
+				"ni"
+			],
+			"kulupu_nimi": [
+				"nimi \"ijo\" li nimi ike: ni li pilin mute tawa insa pilin wan.",
+				"a! ni li ijo suli!"
+			]
+		},
+
+		{
+			"nimi": "ike",
+			"toki": "I.ke",
+			"kama": "pi toki Sumi \"ilkeä\"",
+			"sona": [
+				"pona ala"
+			],
+			"kulupu_nimi": [
+				"mama pi mi li ike, tan mama pi mi li pana ala e moku tawa mi."
+			]
+		},
+
+		{
+			"nimi": "ilo",
+			"toki": "I.lo",
+			"kama": "pi toki Epelanto \"ilo\"",
+			"sona": [
+				"ijo pi kepeken"
+			],
+			"kulupu_nimi": [
+				"a! mi olin e ilo nanpa!"
+			]
+		},
+
+		{
+			"nimi": "insa",
+			"toki": "IN.sa",
+			"kama": "pi toki Pisin \"insait\"",
+			"sona": [
+				"tomo pi poki"
+			],
+			"kulupu_nimi": [
+				"o sina awen e sina lon insa pi tomo!"
+			]
+		},
+
+		{
+			"nimi": "jaki",
+			"toki": "JA.ki",
+			"kama": "pi toki Inli \"yucky\"",
+			"sona": [
+				"ike suli"
+			],
+			"kulupu_nimi": [
+				"jaki! mi pilin ike tawa moku jelo laso!"
+			]
+		},
+
+		{
+			"nimi": "jan",
+			"toki": "jan",
+			"kama": "pi toki Juju \"jan\"",
+			"sona": [
+				"soweli pi poki Homo"
+			],
+			"kulupu_nimi": [
+				"jan ale li jo e ken sama."
+			]
+		},
+
+		{
+			"nimi": "jelo",
+			"toki": "JE.lo",
+			"kama": "pi toki Inli \"yellow\"",
+			"sona": [
+				"kule tawa insa loje en laso"
+			],
+			"kulupu_nimi": [
+				"o sina moku e telo kiwen jelo! ni li telo nasa!"
+			]
+		},
+
+		{
+			"nimi": "jo",
+			"toki": "jo",
+			"kama": "pi toki Putowa \"yǒu\"",
+			"sona": [
+				"awen lon poki anu ijo ante"
+			],
+			"kulupu_nimi": [
+				"a! mi jo e mani mute!"
+			]
+		},
+
+		{
+			"nimi": "kala",
+			"toki": "KA.la",
+			"kama": "pi toki Sumi \"kala\"",
+			"sona": [
+				"soweli pi telo"
+			],
+			"kulupu_nimi": [
+				"kala li soweli pi telo."
+			]
+		},
+
+		{
+			"nimi": "kalama",
+			"toki": "KA.la.ma",
+			"kama": "pi toki Supukowawaki \"galama\"",
+			"sona": [
+				"tawa pi kon pi lupa soweli",
+				"tawa pi kon ale"
+			],
+			"kulupu_nimi": [
+				"mi kute e kalama musi!"
+			]
+		},
+
+		{
+			"nimi": "kama",
+			"toki": "KA.ma",
+			"kama": "pi toki Inli \"come up\"",
+			"sona": [
+				"tawa ni"
+			],
+			"kulupu_nimi": [
+				"tenpo mun, la mi kama tawa tomo pi sina!"
+			]
 		}
 	]
 }
