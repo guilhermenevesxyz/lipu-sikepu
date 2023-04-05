@@ -66,3 +66,46 @@ p {
 	font-weight: bold;
 	font-size: 1rem;
 }
+
+h3 {
+	color: white;
+	font-size: 1.25rem;
+	font-weight: bolder;
+	text-shadow: 0.1rem 0.1rem 0 black;
+}
+
+form {
+	display: flex;
+	flex-direction: row;
+}
+
+input[type="text"] {
+	border-radius: 2rem;
+	padding: 0.5rem;
+	font-size: 1rem;
+	font-weight: bold;
+	background-color: white;
+	color: black;
+	outline: black solid 0.2rem;
+	box-shadow: 0.5rem 0.5rem 0 black;
+	margin: 0.5rem;
+	flex: 1;
+	box-sizing: border-box;
+}
+
+input[type="text"]::placeholder {
+	color: grey;
+}
+
+button {
+	border-radius: 2rem;
+	padding: 0.5rem;
+	font-size: 1rem;
+	font-weight: bold;
+	color: black;
+	outline: black solid 0.2rem;
+	box-shadow: 0.5rem 0.5rem 0 black;
+	margin: 0.5rem;
+	background-color: rgb(220, 196, 60);
+	box-sizing: border-box;
+}
